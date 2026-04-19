@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+tts_env/
+dtw_env/
+.DS_Store
+
+# Large files
+*.wav
+
+# Models
+models/*.pth
